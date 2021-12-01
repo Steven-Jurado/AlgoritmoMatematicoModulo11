@@ -1,1 +1,0 @@
-# AlmoritmoMatematicoModulo11
